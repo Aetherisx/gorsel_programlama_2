@@ -1,0 +1,17 @@
+C:\Users\ardat\source\repos\oyun\oyun\bin\Debug\net8.0-windows\oyun.exe
+C:\Users\ardat\source\repos\oyun\oyun\bin\Debug\net8.0-windows\oyun.deps.json
+C:\Users\ardat\source\repos\oyun\oyun\bin\Debug\net8.0-windows\oyun.runtimeconfig.json
+C:\Users\ardat\source\repos\oyun\oyun\bin\Debug\net8.0-windows\oyun.dll
+C:\Users\ardat\source\repos\oyun\oyun\bin\Debug\net8.0-windows\oyun.pdb
+C:\Users\ardat\source\repos\oyun\oyun\obj\Debug\net8.0-windows\oyun.Form1.resources
+C:\Users\ardat\source\repos\oyun\oyun\obj\Debug\net8.0-windows\oyun.Properties.Resources.resources
+C:\Users\ardat\source\repos\oyun\oyun\obj\Debug\net8.0-windows\oyun.csproj.GenerateResource.cache
+C:\Users\ardat\source\repos\oyun\oyun\obj\Debug\net8.0-windows\oyun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardat\source\repos\oyun\oyun\obj\Debug\net8.0-windows\oyun.AssemblyInfoInputs.cache
+C:\Users\ardat\source\repos\oyun\oyun\obj\Debug\net8.0-windows\oyun.AssemblyInfo.cs
+C:\Users\ardat\source\repos\oyun\oyun\obj\Debug\net8.0-windows\oyun.csproj.CoreCompileInputs.cache
+C:\Users\ardat\source\repos\oyun\oyun\obj\Debug\net8.0-windows\oyun.dll
+C:\Users\ardat\source\repos\oyun\oyun\obj\Debug\net8.0-windows\refint\oyun.dll
+C:\Users\ardat\source\repos\oyun\oyun\obj\Debug\net8.0-windows\oyun.pdb
+C:\Users\ardat\source\repos\oyun\oyun\obj\Debug\net8.0-windows\oyun.genruntimeconfig.cache
+C:\Users\ardat\source\repos\oyun\oyun\obj\Debug\net8.0-windows\ref\oyun.dll
